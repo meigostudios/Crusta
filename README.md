@@ -5,5 +5,8 @@
 ## Что это?
 Это браузер Crusta созданный компанией Meigo для оболочки операционной системы McPure. Но этот браузер разрешается использовать и в своих целях.
 
+## Скриншоты
+https://meigostudios.github.io/Crusta
+<iframe src="https://meigostudios.github.io/Crusta"></iframe>
 
 ![GitHub forks](https://img.shields.io/github/forks/meigostudios/Crusta.svg?style=social&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/meigostudios/Crusta.svg?style=social&label=Stars)
